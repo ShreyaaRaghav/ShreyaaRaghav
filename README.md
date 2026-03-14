@@ -73,8 +73,6 @@
 - Reviewing existing monitoring and early-warning approaches
 - Focus on understanding risk assessment and mitigation strategies
 
----
-
 ### 🩺 Research Work: Detection of Medically Manipulated Images  
 - Explored methods to identify tampering in medical images
 - Studied classical and ML-based detection techniques
