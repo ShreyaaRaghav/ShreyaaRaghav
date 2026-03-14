@@ -68,7 +68,7 @@
 
 ## 🚀 ONGOING Projects
 
-### 📊 Research Work: Detection of Medically Manipulated Images
+### 📊 Research Work: GLOF events impact using Geographical data
 - Studying causes and impacts of GLOF events using climate and geographical data
 - Reviewing existing monitoring and early-warning approaches
 - Focus on understanding risk assessment and mitigation strategies
